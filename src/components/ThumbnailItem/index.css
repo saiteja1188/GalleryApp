@@ -1,0 +1,16 @@
+/* Write your code here. */
+.thumbnail-items {
+  list-style-type: none;
+}
+.button-list {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+.thumbnail {
+  opacity: 0.5;
+}
+.active {
+  opacity: 1;
+}
